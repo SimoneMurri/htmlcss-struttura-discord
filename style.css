@@ -14,9 +14,55 @@
 
 .yellow-element {
     background-color: rgb(218, 165, 48);
-    width: 400px;
+    width: 1000px;
     height: 20px;
     border: dotted ;
     justify-content: space-between;
     display: flex;
+}
+
+.blue-element {
+    background-color: rgb(0, 1, 136);
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pink-element {
+    background-color: rgb(238, 129, 234);
+    width: 800px;
+    height: 330px;
+    border: dotted;
+}
+
+.white-element {
+    background-color: white;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skyblue-element {
+    background-color: rgb(26, 144, 252);
+    width: 700px;
+    height: 330px;
+    border: dotted;
+}
+
+.fleshpink-element {
+    background-color: rgb(254, 192, 202);
+    width: 300px;
+    height: 330px;
+    border: dotted;
+}
+
+.gray {
+    background-color: rgb(211, 211, 211);
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
 }
